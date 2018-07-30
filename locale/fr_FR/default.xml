@@ -27,8 +27,8 @@
 	<message key="default.groups.name.designer">Designer</message>
 	<message key="default.groups.plural.designer">Designers</message>
 	<message key="default.groups.abbrev.designer">Design</message>
-	<message key="default.groups.name.internalReviewer">Rapporteur interne</message>
-	<message key="default.groups.plural.internalReviewer">Rapporteurs internes</message>
+	<message key="default.groups.name.internalReviewer">Évaluateur interne</message>
+	<message key="default.groups.plural.internalReviewer">Évaluateurs internes</message>
 	<message key="default.groups.abbrev.internalReviewer">EvalInt</message>
 	<message key="default.groups.name.marketing">Coordonnateur des ventes et du marketing</message>
 	<message key="default.groups.plural.marketing">Coordonnateurs des ventes et du marketing</message>
@@ -42,8 +42,8 @@
 	<message key="default.groups.name.layoutEditor">Responsable de la mise en page</message>
 	<message key="default.groups.plural.layoutEditor">Responsables de la mise en page</message>
 	<message key="default.groups.abbrev.layoutEditor">RespMP</message>
-	<message key="default.groups.name.author">Auteur</message>
-	<message key="default.groups.plural.author">Auteurs</message>
+	<message key="default.groups.name.author">Auteur(e)</message>
+	<message key="default.groups.plural.author">Auteur(e)s</message>
 	<message key="default.groups.abbrev.author">AU</message>
 	<message key="default.groups.name.translator">Traducteur</message>
 	<message key="default.groups.plural.translator">Traducteurs</message>
