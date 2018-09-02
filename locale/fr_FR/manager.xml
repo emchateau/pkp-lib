@@ -187,7 +187,7 @@
 	<message key="manager.statistics.reports.advancedOptions">Options avancées</message>
 	<message key="manager.statistics.reports.advancedOptions.hide">Masquer les options avancées</message>
 	<message key="manager.statistics.reports.columns">Colonnes</message>
-	<message key="manager.statistics.reports.columns.description">Définir les colonnes qui seront utilisées pour construire le rapport. Les colonnes que vous sélectionnez ici précisent non seulement les données qui apparaîtront dans les rapports, mais également le niveau d’agrégation des statistiques. Par exemple, si vous choisissez les colonnes « ID », « Type » et « Mois », le rapport effectuera la somme de toutes les vues d’un objet pour un mois particulier et affichera les données sur une ligne. Si vous choisissez "Jour" au lieu de "Mois", chaque objet affichera une ligne pour chaque jour.</message>
+	<message key="manager.statistics.reports.columns.description">Définir les colonnes qui seront utilisées pour construire le rapport. Les colonnes que vous sélectionnez ici précisent non seulement les données qui apparaîtront dans les rapports, mais également le niveau d’agrégation des statistiques. Par exemple, si vous choisissez les colonnes « ID », « Type » et « Mois », le rapport effectuera la somme de toutes les vues d’un objet pour un mois particulier et affichera les données sur une ligne. Si vous choisissez « Jour » au lieu de « Mois », chaque objet affichera une ligne pour chaque jour.</message>
 	<message key="manager.statistics.reports.filters">Filtres</message>
 	<message key="manager.statistics.reports.objectNotFound">Objet introuvable dans la base de données.</message>
 	<message key="manager.statistics.reports.objectType">Type d’objet</message>

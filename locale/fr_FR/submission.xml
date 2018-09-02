@@ -139,7 +139,7 @@
 	<message key="metadata.property.displayName.partName">Nom de la partie</message>
 	<message key="metadata.property.validationMessage.partName">Veuillez saisir un nom valide pour la partie.</message>
 	<message key="metadata.property.displayName.name-type">Type du nom</message>
-	<message key="metadata.property.validationMessage.name-type">Assurez-vous de choisir un type de nom valide. Les valeurs acceptées sont "personnel", "entreprise" et "colloque".</message>
+	<message key="metadata.property.validationMessage.name-type">Assurez-vous de choisir un type de nom valide. Les valeurs acceptées sont « personnel », « entreprise » et « colloque ».</message>
 	<!-- FIXME: end -->
 	
 	<message key="common.queue.long.submissionsUnassigned">Propositions non attribuées</message>
