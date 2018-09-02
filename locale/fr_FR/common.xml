@@ -541,7 +541,7 @@
 	<message key="user.authorization.invalidRepresentation">Représentation invalide.</message>
 	<message key="user.authorization.authorRoleMissing">Vos droits d’accès actuels ne vous permettent pas de voir cette proposition. Veuillez modifier votre profil pour vous assurer que l’on vous a attribué les rôles appropriés dans la rubrique « S’inscrire comme ».</message>
 	<message key="user.authorization.submissionAuthor">L’utilisateur actuel n’est pas l’auteur de la proposition demandée. Veuillez vous assurer d’avoir ouvert une session avec le compte d’utilisateur approprié.</message>
-	<message key="notification.type.queryActivity">Activités sur la discusssion.</message>
+	<message key="notification.type.queryActivity">Activités sur la discussion.</message>
 	<message key="notification.type.queryAdded">Discussion ajoutée.</message>
 	<message key="notification.type.assignCopyeditors">Assignez un réviseur à l’aide du lien « Ajouter » dans la liste « Participants ».</message>
 	<message key="notification.type.awaitingCopyedits">En attente de remarques de révision</message>	

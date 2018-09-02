@@ -199,9 +199,9 @@
 	<message key="submission.emailLog">Répertoire de courriels</message>
 	<message key="submission.event.participantAdded">« {$name} » ({$username}) fait partie du groupe {$userGroupName}.</message>
 	<message key="submission.event.participantRemoved">« {$name} » ({$username}) ne fait plus partie du groupe {$userGroupName}.</message>
-	<message key="submission.event.backToEventLog">Retour au répertoire d’évènements</message>
-	<message key="submission.event.confirmClearLog">Êtes-vous certain(e) de vouloir effacer le répertoire d’évènements pour cette proposition ?</message>
-	<message key="submission.event.confirmDeleteLogEntry">Êtes-vous certain(e) de vouloir supprimer cette entrée du répertoire d’évènements ?</message>
+	<message key="submission.event.backToEventLog">Retour au répertoire d’événements</message>
+	<message key="submission.event.confirmClearLog">Êtes-vous certain(e) de vouloir effacer le répertoire d’événements pour cette proposition ?</message>
+	<message key="submission.event.confirmDeleteLogEntry">Êtes-vous certain(e) de vouloir supprimer cette entrée du répertoire d’événements ?</message>
 	<message key="submission.event.deleteLogEntry">Supprimer l’entrée du répertoire</message>
 	<message key="submission.event.submissionSubmitted">Proposition initiale soumise</message>
 	<message key="submission.event.fileRevised">La révision « {$name} » (file ID {$fileId}-{$fileRevision}) a été téléchargée.</message>
@@ -230,7 +230,7 @@
 	<message key="submission.history.noLogEntries">Aucune entrée dans le répertoire</message>
 	<message key="submission.history.recentLogEntries">Entrées récentes</message>
 	<message key="submission.history.submissionEmailLog">Répertoire de courriels</message>
-	<message key="submission.history.submissionEventLog">Répertoire d’évènements</message>
+	<message key="submission.history.submissionEventLog">Répertoire d’événements</message>
 	<message key="submission.history.submissionNotes">Notes des propositions</message>
 	<message key="submission.history.viewLog">Voir le répertoire</message>
 	<message key="submission.howToCite">Comment citer</message>
@@ -248,7 +248,7 @@
 	<message key="submission.informationCenter.metadata">Métadonnées</message>
 	<message key="submission.informationCenter.notes">Notes</message>
 	<message key="submission.informationCenter.history">Historique</message>
-	<message key="submission.informationCenter.history.allEvents">Afficher les évènements des versions précédentes</message>
+	<message key="submission.informationCenter.history.allEvents">Afficher les événements des versions précédentes</message>
 	
 	<!-- Stage Participants -->
 	<message key="submission.stageParticipants.notify">Envoyer un avis</message>

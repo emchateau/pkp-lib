@@ -257,7 +257,7 @@
 	<message key="grid.userGroup.filter.listRoles">Les rôles attribués à</message>
 	<message key="grid.userGroup.filter.permissionLevel">Avec les permissions</message>
 	<message key="grid.userGroup.cantRemoveDefaultUserGroup">Le rôle {$userGroupName} est un rôle par défaut et ne peut donc être supprimé.</message>
-	<message key="grid.userGroup.cantRemoveUserGroup">Impossible de supprimer le rôle {$userGroupName} car il est actuellement attribué à {$usersCount} utilsateur(s).</message>
+	<message key="grid.userGroup.cantRemoveUserGroup">Impossible de supprimer le rôle {$userGroupName} car il est actuellement attribué à {$usersCount} utilisateur(s).</message>
 	<message key="grid.userGroup.removed">Le rôle {$userGroupName} est supprimé.</message>
 	<message key="grid.userGroup.assignedStage">Le rôle {$userGroupName} est attribué à l’étape {$stageName}.</message>
 	<message key="grid.userGroup.unassignedStage">Le rôle {$userGroupName} n’est plus attribué à l’étape {$stageName}.</message>

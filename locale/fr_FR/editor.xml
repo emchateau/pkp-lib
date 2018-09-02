@@ -146,7 +146,7 @@
 	<message key="reviewer.list.neverAssigned">Jamais aucune évaluation attribuée</message>
 	<message key="reviewer.list.currentlyAssigned">Cette proposition est déjà attribuée à l’évaluatrice ou évaluateur.</message>
 	<message key="reviewer.list.warnOnAssign">Cette évaluatrice ou cet évaluateur est bloqué(e), car le rôle qui lui a été attribué permet de voir l’identité de l’auteur(e). La révision par les pairs à l’aveugle ne peut être assurée. Voulez-vous néanmoins débloquer cette évaluatrice ou cet évaluateur ?</message>
-	<message key="reviewer.list.warnOnAssignUnlock">Unlock</message>
+	<message key="reviewer.list.warnOnAssignUnlock">Déverrouiller</message>
 	<message key="reviewer.list.reviewInterests">Intérêts de l’évaluatrice ou évaluateur</message>
 	<message key="reviewer.list.biography">Biographie</message>
 	
