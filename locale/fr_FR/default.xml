@@ -20,22 +20,22 @@
 	<message key="default.groups.abbrev.productionEditor">DirProd</message>
 	<message key="default.groups.name.copyeditor">Réviseur</message>
 	<message key="default.groups.plural.copyeditor">Réviseurs</message>
-	<message key="default.groups.abbrev.copyeditor">RÉV</message>
+	<message key="default.groups.abbrev.copyeditor">Rév</message>
 	<message key="default.groups.name.proofreader">Correcteur d’épreuves</message>
 	<message key="default.groups.plural.proofreader">Correcteurs d’épreuves</message>
-	<message key="default.groups.abbrev.proofreader">CorEp</message>
+	<message key="default.groups.abbrev.proofreader">Corr</message>
 	<message key="default.groups.name.designer">Designer</message>
 	<message key="default.groups.plural.designer">Designers</message>
 	<message key="default.groups.abbrev.designer">Design</message>
 	<message key="default.groups.name.internalReviewer">Évaluateur interne</message>
 	<message key="default.groups.plural.internalReviewer">Évaluateurs internes</message>
-	<message key="default.groups.abbrev.internalReviewer">EvalInt</message>
+	<message key="default.groups.abbrev.internalReviewer">ÉvalInt</message>
 	<message key="default.groups.name.marketing">Coordonnateur des ventes et du marketing</message>
 	<message key="default.groups.plural.marketing">Coordonnateurs des ventes et du marketing</message>
-	<message key="default.groups.abbrev.marketing">CVM</message>
+	<message key="default.groups.abbrev.marketing">CoordVM</message>
 	<message key="default.groups.name.funding">Coordonnateur du financement</message>
 	<message key="default.groups.plural.funding">Coordonnateurs du financement</message>
-	<message key="default.groups.abbrev.funding">CF</message>
+	<message key="default.groups.abbrev.funding">CoordFin</message>
 	<message key="default.groups.name.indexer">Indexeur</message>
 	<message key="default.groups.plural.indexer">Indexeurs</message>
 	<message key="default.groups.abbrev.indexer">Indx</message>
@@ -54,7 +54,7 @@
 
 	<!--  common app genre defaults -->
 	<message key="default.genres.other">Autre</message>
-	<message key="default.genres.multimedia">Multimedia</message>
+	<message key="default.genres.multimedia">Multimédia</message>
 	<message key="default.genres.image">Image</message>
-	<message key="default.genres.styleSheet">HTML Stylesheet</message>
+	<message key="default.genres.styleSheet">Feuille de style HTML</message>
 </locale>
