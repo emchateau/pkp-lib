@@ -38,7 +38,7 @@
 	<message key="editor.review.enrollReviewer.short">Enregistrer une évaluatrice ou un évaluateur actuel(le)</message>
 	<message key="editor.submissionReview.reviewType">Type d’évaluation</message>
 	<message key="editor.submissionReview.sendEmail">Envoyer un courriel aux auteur(e)s : {$authorName}</message>
-	<message key="editor.submissionReview.sendEmail.editors">Envoyer un courriel aux rédactrices ou rédacteurs : {$editorNames}</message>
+	<message key="editor.submissionReview.sendEmail.editors">Envoyer un courriel aux éditrices ou éditeurs : {$editorNames}</message>
 	<message key="editor.submissionReview.skipEmail">Ne pas envoyer de courriel à l’auteur(e)</message>
 	<message key="editor.submissionReview.open">Évaluation ouverte</message>
 	<message key="editor.submissionReview.blind">Évaluation à l’aveugle</message>

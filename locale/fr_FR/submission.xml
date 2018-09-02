@@ -211,9 +211,9 @@
 	<message key="submission.event.reviewer.reviewAccepted">Évaluation acceptée</message>
 	<message key="submission.event.reviewer.reviewDeclined">Évaluation refusée</message>
 	<message key="submission.event.reviewer.reviewDueDate">Date d’échéance de l’évaluation modifiée</message>
-	<message key="submission.event.reviewer.reviewerAssigned">Rapporteur assigné à une proposition</message>
+	<message key="submission.event.reviewer.reviewerAssigned">Évaluatrice ou évaluateur assigné(e)</message>
 	<message key="submission.event.reviewer.reviewerRated">Notation de l’évaluatrice ou évaluateur soumise</message>
-	<message key="submission.event.reviewer.reviewerUnassigned">Évaluatrice ou évaluateur non assigné(e) à une proposition</message>
+	<message key="submission.event.reviewer.reviewerUnassigned">Évaluatrice ou évaluateur non assigné(e)</message>
 	<message key="submission.event.reviewer.reviewFile">Fichier d’évaluation mis à jour</message>
 	<message key="submission.event.reviewer.reviewInitiated">Évaluation commencée</message>
 	<message key="submission.event.reviewer.reviewRecommendation">Fichier de recommandation d’une évaluation</message>
@@ -463,7 +463,7 @@
 	<message key="editor.submission.noneAssigned">Aucune attribution</message>
 	<message key="editor.submission.participant">Participant(e)</message>
 	<message key="editor.submission.addStageParticipant">Ajouter une participante ou un participant</message>
-	<message key="editor.submission.addStageParticipant.userGroup">Les utilisatrices ou utilisateurs sont affectés aux étapes du processus de publication par groupes. Tout utilisateur assigné à cette étape sera automatiquement affecté à d’autres étapes auxquelles son groupe d’utilisateurs a été affecté. Cela est habituellement réservé aux rédactrices ou rédacteurs, aux auteur(e)s et aux traductrices ou traducteurs.</message>
+	<message key="editor.submission.addStageParticipant.userGroup">Les utilisatrices ou utilisateurs sont affectés aux étapes du processus de publication par groupes. Tout utilisateur assigné à cette étape sera automatiquement affecté à d’autres étapes auxquelles son groupe d’utilisateurs a été affecté. Cela est habituellement réservé aux éditrices ou éditeurs, aux auteur(e)s et aux traductrices ou traducteurs.</message>
 	<message key="editor.submission.removeStageParticipant">Supprimer une participante ou un participant</message>
 	<message key="editor.submission.removeStageParticipant.description"><![CDATA[Vous souhaitez que cette participante ou ce participant soit supprimé(e) de <strong>toutes</strong> les étapes ? Ses éventuelles tâches de contrôle en cours seront également supprimées.]]></message>
 	<message key="editor.submission.addStageParticipant.form.userGroupRequired">Vous devez choisir un groupe d’utilisateurs.</message>
@@ -482,7 +482,7 @@
 	<message key="editor.submission.decision.approveProofs">Approuver les épreuves</message>
 	<message key="editor.submission.decision.approveProofsDescription">Indiquez que le fichier d’épreuves a été approuvé pour qu’il soit disponible. Souhaitez-vous l’approuver ?</message>
 	<message key="editor.submission.decision.disapproveProofsDescription">Ce fichier d’épreuves ne pourra plus être téléchargé ou acheté par le public. Souhaitez-vous lui retirer son approbation ?</message>
-	<message key="editor.submission.decision.noDecisionsAvailable">Assigner une rédactrice ou un rédacteur à cette étape pour pouvoir accomplir des actions.</message>
+	<message key="editor.submission.decision.noDecisionsAvailable">Assigner une éditrice ou un éditeur à cette étape pour pouvoir accomplir des actions.</message>
 	
 	<!--  editor recommendations -->
 	<message key="editor.submission.makeRecommendation">Faire une recommandation</message>
