@@ -515,7 +515,7 @@
 
 		</ul>]]></message>
 	<message key="reviewer.submission.reviewSchedule">Examiner le calendrier</message>
-	<message key="reviewer.submission.reviewRequestDate">Requête du rédacteur en chef</message>
+	<message key="reviewer.submission.reviewRequestDate">Requête de la rédactrice ou du rédacteur en chef</message>
 	<message key="reviewer.submission.responseDueDate">Date limite de réponse</message>
 	<message key="reviewer.submission.reviewDueDate">Date limite d’évaluation</message>
 	<message key="submission.task.responseDueDate">Date à laquelle la réponse est attendue</message>
