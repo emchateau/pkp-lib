@@ -498,7 +498,7 @@
 	<message key="manager.navigationMenus">Menus de navigation</message>
 	<message key="manager.navigationMenus.form.viewInstructions"><![CDATA[<p>
 		Cette page sera accessible ici : <blockquote>{$pagesPath}</blockquote>… où %PATH% est le chemin qui a été saisi ci-dessus. <strong>Note.</strong>
-		Deux pages ne peuvent jamais avoir le même chemin. Utiliser des chemins qui existent par défaut dans le système peut rendre impossible l'accès à des fonctions importantes.</p>]]></message>
+		Deux pages ne peuvent jamais avoir le même chemin. Utiliser des chemins qui existent par défaut dans le système peut rendre impossible l’accès à des fonctions importantes.</p>]]></message>
 	<message key="manager.navigationMenus.form.content">Contenu</message>
 	<message key="manager.navigationMenus.form.pathRegEx">Le champ « Chemin » ne doit contenir que des caractères alphanumériques et les caractères suivants : « . », « / », « - » et « _ ».</message>
 	<message key="manager.navigationMenus.form.duplicatePath">Ce chemin existe déjà pour un autre élément du menu de navigation.</message>

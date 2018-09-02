@@ -27,7 +27,7 @@
 	<message key="reviewer.submission.acceptReview">Accepter l’examen, passer à l’étape 2</message>
 	<message key="reviewer.submission.continueToStepThree">Passer à l’étape 3</message>
 	<message key="reviewer.submission.submitReview">Soumettre l’évaluation</message>
-	<message key="reviewer.submission.reviewerGuidelines">Consignes pour l'évaluation</message>
+	<message key="reviewer.submission.reviewerGuidelines">Consignes pour l’évaluation</message>
 	<message key="reviewer.submission.enterCompetingInterests">L’éditrice ou éditeur a adopté une politique de divulgation des conflits d’intérêt. Veuillez prendre un moment pour lire cette politique.</message>
 	<message key="reviewer.submission.noCompetingInterests">Je n’ai pas de conflits d’intérêt à signaler.</message>
 	<message key="reviewer.submission.hasCompetingInterests">Il est possible que j’aie des conflits d’intérêt (veuillez préciser).</message>

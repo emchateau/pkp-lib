@@ -51,7 +51,7 @@
 	<message key="user.login.accountNotValidated">Votre courriel « {$email} » n’a pas été validé. Vérifiez vos courriels et suivez les instructions que nous vous avons fait parvenir. Si vous n’avez pas reçu de courriel, vous devrez peut-être contacter l’administratrice ou administrateur du site pour obtenir de l’aide.</message>
 	<message key="user.login.activate">Activer le compte</message>
 	<message key="user.login.activated">Merci d’avoir activé votre compte. Vous pouvez maintenant vous connecter en utilisant les identifiants fournis lors de la création de votre compte.</message>
-	<message key="user.login.changePasswordInstructions"><![CDATA[Vous devez sélectionner un nouveau mot de passe avant de pouvoir vous connecter à ce site.<br /><br />Veuillez entrer votre nom d’utilisatrice ou d'utilisateur et vos mots de passe actuel et nouveau ci-dessous pour modifier le mot de passe de votre compte.]]></message>
+	<message key="user.login.changePasswordInstructions"><![CDATA[Vous devez sélectionner un nouveau mot de passe avant de pouvoir vous connecter à ce site.<br /><br />Veuillez entrer votre nom d’utilisatrice ou d’utilisateur et vos mots de passe actuel et nouveau ci-dessous pour modifier le mot de passe de votre compte.]]></message>
 	<message key="user.login.forgotPassword">Avez-vous oublié votre mot de passe ?</message>
 	<message key="user.login.loginError">Nom d’utilisatrice/utilisateur ou mot de passe non valide. Veuillez essayer de nouveau.</message>
 	<message key="user.login">Se connecter</message>
@@ -121,7 +121,7 @@
 	<message key="user.register.registerAs">S’inscrire en tant que {$contextName}</message>
 	<message key="user.register">S’inscrire</message>
 	<message key="user.register.usernameRestriction">Le nom d’utilisateur ne doit contenir que des lettres minuscules, des chiffres, des traits d’union ou des traits de soulignement.</message>
-	<message key="user.register.registrationCompleted"><![CDATA[*Vous êtes bien inscrit(e). <a href="{$profileUrl}"> Cliquez ici </a> pour achever de remplir votre profil d'utilisatrice ou d'utilisateur.]]></message>
+	<message key="user.register.registrationCompleted"><![CDATA[*Vous êtes bien inscrit(e). <a href="{$profileUrl}"> Cliquez ici </a> pour achever de remplir votre profil d’utilisatrice ou d’utilisateur.]]></message>
 	<message key="user.role.assistant">Assistant(e)</message>
 	<message key="user.role.author">Auteur(e)</message>
 	<message key="user.role.author_s">Auteur(e)(s)</message>
