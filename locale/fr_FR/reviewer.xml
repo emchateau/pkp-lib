@@ -14,35 +14,36 @@
 
 <locale name="fr_FR" full_name="Français (France)">
 	<!-- Used in submission review -->
-	<message key="reviewer.reviewSteps.request">1. Demande</message>
-	<message key="reviewer.reviewSteps.guidelines">2. Consignes</message>
-	<message key="reviewer.reviewSteps.download"><![CDATA[3. Télécharger et examiner]]></message>
+	<message key="reviewer.reviewSteps.request">1. Requête</message>
+	<message key="reviewer.reviewSteps.guidelines">2. Lignes directrices</message>
+	<message key="reviewer.reviewSteps.download"><![CDATA[3. Télécharger & Examiner]]></message>
 	<message key="reviewer.reviewSteps.completion">4. Terminer</message>
-	<message key="reviewer.step1.request">Demande d’évaluation</message>
-	<message key="reviewer.step1.requestBoilerplate">Vous avez été nommé(e) comme évaluatrice ou évaluateur potentiel(le) d’une proposition. Voici un aperçu de la proposition, ainsi que le calendrier prévu. Nous espérons que vous pourrez contribuer à son évaluation.</message>
-	<message key="reviewer.step1.viewAllDetails">Voir tous les détails de la proposition</message>
-	<message key="reviewer.submission.reviewerFiles">Fichiers de l’évaluatrice ou évaluateur</message>
-	<message key="reviewer.submission.declineReview">Refuser la demande d’évaluation</message>
-	<message key="reviewer.submission.declineReviewMessage">Vous pouvez indiquer à l’éditrice ou éditeur, dans le champ ci-dessous, les raisons pour lesquelles vous refusez de contribuer à cette évaluation.</message>
-	<message key="reviewer.submission.acceptReview">Accepter l’examen, passer à l’étape 2</message>
-	<message key="reviewer.submission.continueToStepThree">Passer à l’étape 3</message>
-	<message key="reviewer.submission.submitReview">Soumettre l’évaluation</message>
-	<message key="reviewer.submission.reviewerGuidelines">Consignes pour l’évaluation</message>
-	<message key="reviewer.submission.enterCompetingInterests">L’éditrice ou éditeur a adopté une politique de divulgation des conflits d’intérêt. Veuillez prendre un moment pour lire cette politique.</message>
-	<message key="reviewer.submission.noCompetingInterests">Je n’ai pas de conflits d’intérêt à signaler.</message>
-	<message key="reviewer.submission.hasCompetingInterests">Il est possible que j’aie des conflits d’intérêt (veuillez préciser).</message>
-	<message key="reviewer.submission.competingInterests">Conflits d’intérêt</message>
-	<message key="reviewer.submission.guidelines">Consignes pour l’évaluation</message>
-	<message key="reviewer.submission.noGuidelines">L’éditrice ou éditeur n’a pas publié de consignes pour l’évaluation.</message>
-	<message key="reviewer.submission.downloadDescription">Cliquez sur les noms des fichiers pour télécharger et évaluer les fichiers associés à cette proposition (sur l’écran ou après les avoir imprimés).</message>
-	<message key="reviewer.submission.reviewDescription">Saisissez ou copiez et collez votre évaluation de cette proposition dans le formulaire ci-dessous.</message>
-	<message key="reviewer.submission.uploadDescription">De plus, vous pouvez transférer des fichiers que l’éditrice ou éditeur et l’auteur(e) pourront consulter, y compris les versions révisées des premiers fichiers d’évaluation.</message>
-	<message key="reviewer.complete">Évaluation transmise</message>
-	<message key="reviewer.confirmSubmit">Voulez-vous vraiment transmettre cette évaluation ?</message>
-	<message key="reviewer.aboutDueDates">À propos du calendrier</message>
-	<message key="reviewer.complete.whatNext">Merci d’avoir évalué cette proposition. Votre évaluation a bien été reçue. Nous apprécions votre contribution à la qualité des travaux que nous publions. La rédaction vous contactera peut-être, si d’autres renseignements sont nécessaires.</message>
-	<message key="reviewer.aboutDueDates.text">La rédaction vous demande d’accepter ou de refuser d’évaluation la proposition avant la date limite, et de transmettre votre évaluation achevée avant cette date limite.</message>
-	<message key="submission.comments.canShareWithAuthor">Ce texte sera transmis à l’auteur(e) et à l’éditrice ou éditeur.</message>
-	<message key="submission.comments.cannotShareWithAuthor">Ce texte sera transmis à l’éditrice ou éditeur.</message>
-	<message key="user.authorization.submissionReviewer">L’utilisateur ou utilisatrice actuel(le) n’a pas été désigné(e) évaluatrice ou évaluateur pour le document demandé.</message>
+	<message key="reviewer.step1.request">Requête d’examen</message>
+	<message key="reviewer.step1.requestBoilerplate">Vous avez été choisi(e) en tant que rapporteur(se) potentiel(lle) de la soumission suivante. Voici un aperçu de la soumission, ainsi que les échéanciers associés à son examen. Nous espérons que vous pourrez participer au processus d’examen.</message>
+	<message key="reviewer.step1.viewAllDetails">Voir tous les détails de la soumission</message>
+	<message key="reviewer.submission.reviewerFiles">Fichiers du rapporteur</message>
+	<message key="reviewer.submission.declineReview">Refuser la requête d’examen</message>
+	<message key="reviewer.submission.declineReviewMessage">Vous pouvez indiquer au rédacteur, dans le champ ci-dessous, les raisons pour lesquelles vous refusez de participer à ce processus d’examen.</message>
+	<message key="reviewer.submission.acceptReview">Accepter l’examen, continuer à l’étape #2</message>
+	<message key="reviewer.submission.continueToStepThree">Continuer à l’étape #3</message>
+	<message key="reviewer.submission.submitReview">Soumettre l’examen</message>
+	<message key="reviewer.submission.reviewerGuidelines">Lignes directrices des rapporteurs</message>
+	<message key="reviewer.submission.enterCompetingInterests">La maison d’édition a adopté une politique de divulgation des intérêts opposés chez ses rapporteurs. Veuillez prendre un moment pour lire cette politique.</message>
+	<message key="reviewer.submission.noCompetingInterests">Je n’ai pas d’intérêts opposés.</message>
+	<message key="reviewer.submission.hasCompetingInterests">Il est possible que j’aie des intérêts opposés (veuillez spécifier).</message>
+	<message key="reviewer.submission.competingInterests">Intérêts opposés</message>
+	<message key="reviewer.submission.guidelines">Lignes directrices des examens</message>
+	<message key="reviewer.submission.noGuidelines">Cet éditeur n’a pas établi de lignes directrices pour les rapporteurs.</message>
+	<message key="reviewer.submission.downloadDescription">Cliquez sur les noms des fichiers pour télécharger et examiner (sur l’écran ou après les avoir imprimés) les fichiers associés à cette soumission.</message>
+	<message key="reviewer.submission.reviewDescription">Saisir (ou copier/coller) votre examen de cette soumission dans le formulaire ci-dessous.</message>
+	<message key="reviewer.submission.uploadDescription">De plus, vous pouvez transférer des fichiers que le rédacteur et/ou l’auteur pourront consulter, y compris les versions révisées des fichiers d’examen originaux.</message>
+	<message key="reviewer.complete">Examen envoyé</message>
+	<message key="reviewer.confirmSubmit">Vous voulez vraiment envoyer cet examen ?</message>
+	<message key="reviewer.aboutDueDates">À propos des dates d’échéance</message>
+	<message key="reviewer.complete.whatNext">Merci d’avoir examiné cette soumission. Votre examen a bien été reçu. Nous apprécions votre contribution à la qualité du travail que nous publions. Le rédacteur pourrait vous contacter à nouveau pour obtenir d’autres renseignements, le cas échéant.</message>
+	<message key="reviewer.aboutDueDates.text">Le rédacteur demande que vous acceptiez ou refusiez d’examiner la soumission avant la date d’échéance, et complétiez l’examen avant la date d’échéance.</message>
+	<message key="submission.comments.canShareWithAuthor">Ce texte sera transmis à l’auteur et au rédacteur</message>
+	<message key="submission.comments.cannotShareWithAuthor">Ce texte sera transmis au rédacteur</message>
+	<message key="user.authorization.submissionReviewer">L’utilisateur courant n’est pas assigné comme rapporteur pour le document demandé.</message>
 </locale>
+
