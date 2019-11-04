@@ -80,7 +80,7 @@
 	<message key="installer.beacon">Balise</message>
 	<message key="installer.beacon.enable">Procure un identifiant unique de site et un URL pour le protocole OAI pour PKP. Ceux-ci utilisés seulement pour des fins de statistiques et de sécurité.</message>
 	<message key="installer.unsupportedPhpError">La version de votre serveur PHP n’est pas supportée par ce logiciel. Vérifiez les prérequis d’installation dans docs/README.</message>
-	
+	<message key="installer.miscSettings">Paramètres divers</message>
 	<!--<!-\- not in use anymore -\->
 	<message key="installer.securitySettings">Paramètres de sécurité</message>
 	<message key="installer.encryptionInstructions">On recommande SHA1</message>
