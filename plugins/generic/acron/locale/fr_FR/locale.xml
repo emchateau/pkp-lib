@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../dtd/locale.dtd">
+
+<!--
+  * plugins/generic/acron/locale/fr_FR/locale.xml
+  *
+  * Copyright (c) 2013-2018 Simon Fraser University
+  * Copyright (c) 2000-2018 John Willinsky
+  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+  *
+  * Localization strings.
+  *
+  -->
+ 
+<locale name="fr_FR" full_name="Français (France)">
+	<message key="plugins.generic.acron.name">Acron Plugin</message>
+	<message key="plugins.generic.acron.description">Ce plugin permet de réduire la dépendance de l’application à l’égard d’outils de tâches planifiées tels que ‘cron’.</message>
+	<message key="plugins.generic.acron.enabled">Le plugin Acron a été activé.</message>
+	<message key="plugins.generic.acron.disabled">Le plugin Acron a été désactivé.</message>
+	<message key="plugins.generic.acron.reloadedCronTab">Cron tab rechargé avec succès.</message>
+
+	<message key="plugins.generic.acron.reload">Rechargement des Tâches planifiées</message>
+	<message key="plugins.generic.acron.tasksReloaded">Les Tâches planifiées ont été rechargées.</message>
+</locale>

@@ -75,7 +75,7 @@
 	<message key="editor.review.reviewSubmitted">Évaluation soumise</message>
 	<message key="editor.review.reviewerComments">Commentaires du rapporteur</message>
 	<message key="editor.review.rateReviewer">Évaluation du rapporteur</message>
-	<message key="editor.review.rateReviewer.description">Évaluer la qualité du rapport fournit. Cette évaluation n’est pas communiquée au rapporteur.</message>
+	<message key="editor.review.rateReviewer.description">Évaluer la qualité du rapport fourni. Cette évaluation n’est pas communiquée au rapporteur.</message>
 	<message key="editor.review.reviewerRating.none">Pas d’évaluation</message>
 	<message key="editor.review.mustSelect">Vous devez sélectionner un rapporteur</message>
 	<message key="editor.review.errorAddingReviewer">Il y a eu une erreur au moment d’ajouter le rapporteur. Essayez de nouveau.</message>

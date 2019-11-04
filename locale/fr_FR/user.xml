@@ -109,7 +109,7 @@
 	<message key="user.login.registerNewAccount">Vous n’êtes pas un utilisateur ? Veuillez vous inscrire au site.</message>
 	<message key="user.login.resetPasswordInstructions"><![CDATA[Pour des raisons de sécurité, ce système envoie un nouveau mot de passe par courriel aux utilisateurs inscrits au lieu de rappeler le mot de passe actuel. .<br /><br />Indiquez votre adresse courriel ci-dessous pour réinitialiser votre mot de passe. Une confirmation sera envoyée par courriel.]]></message>
 	
-	<message key="user.register.form.privacyConsent"><![CDATA[Oui, j’accèpte que mes données personnelles soient collectées et stockées conforméement à la <a href="{$privacyUrl}" target="_blank">déclaration sur les données personnelles</a>.]]></message>
+	<message key="user.register.form.privacyConsent"><![CDATA[Oui, j’accepte que mes données personnelles soient collectées et stockées conformément à la <a href="{$privacyUrl}" target="_blank">déclaration sur les données personnelles</a>.]]></message>
 	<message key="user.register.form.emailConsent">Oui, j’aimerais être informé des nouvelles publications et annonces.</message>
 	<message key="user.register.form.emailExists">L’adresse de courriel sélectionnée est déjà utilisée par un autre utilisateur.</message>
 	<message key="user.register.form.passwordsDoNotMatch">Les mots de passe ne correspondent pas.</message>
@@ -160,5 +160,11 @@
 	<message key="user.apiKey.generateWarning">Générer une nouvelle API Key invalidera toutes les clés existantes pour cet utilisateur.</message>
 	<message key="user.apiKey.secretRequired">Avant de générer une clé pour l’API, vous devez mettre un secret dans le fichier de configuration  ("api_key_secret")</message>
 	<message key="user.privacyLink"><![CDATA[Vos données sont stockées en arccord avec notre <a href="{$privacyUrl}" target="_blank">déclaration sur les données personnelles</a>.]]></message>
+	<message key="user.firstName">Prénom</message>
+	<message key="user.middleName">Nom intermédiaire</message>
+	<message key="user.lastName">Nom</message>
+	<message key="user.salutation">Salutation</message>
+	<message key="user.suffix">Suffixe</message>
+	<message key="user.initials">Initiales</message>
 	
 </locale>

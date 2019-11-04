@@ -545,7 +545,7 @@
 	<message key="notification.type.queryAdded">Discussion ajouté.</message>
 	<message key="notification.type.assignCopyeditors">Affectez un réviseur à l’aide du lien « Ajouter » dans la liste « Participants ».</message>
 	<message key="notification.type.awaitingCopyedits">En attente de copies.</message>	
-	<message key="notification.type.roundStatusTitle">Statut de la série {$round} </message>
+	<message key="notification.type.roundStatusTitle">Statut du cycle {$round} </message>
 	
 	<message key="semicolon">{$label} :</message>
 	

@@ -249,6 +249,7 @@
 	<message key="manager.setup.principalContact">Contact principal</message>
 	<message key="manager.setup.principalContactDescription">Entrez les coordonnées d’un rédacteur en chef, d’un membre de la rédaction ou du personnel administratif qui peuvent être affichées sur la version public de votre site Web.</message>
 	<message key="manager.setup.privacyStatement">Déclaration sur les données personnelles</message>
+		<message key="manager.setup.privacyStatement.description">Cette déclaration apparaîtra pendant l’enregistrement des utilisateurs, la soumission des auteurs, et sur la page privée accessible publiquement. Dans certaines juridictions, vous devez déclarer la manière dont vous gérez les données utilisateurs.</message>
 	<message key="manager.setup.reviewOptions.numWeeksPerResponse">Délai de réponse alloué (semaines)</message>
 	<message key="manager.setup.reviewOptions.numWeeksPerReview">Délai alloué pour la révision (semaines)</message>
 	<message key="manager.setup.reviewOptions.neverSendReminder">Ne jamais rappeler</message>
@@ -259,7 +260,7 @@
 	<message key="manager.setup.reviewOptions.showBlindReviewLink">Présentez un lien "Assurer une évaluation à l’aveugle" lors du téléchargement</message>
 	<message key="manager.setup.searchEngineIndexing.sitemap">Sitemap</message>
 	<message key="manager.setup.searchEngineIndexing.sitemapDescription"><![CDATA[Un sitemap XML est disponible pour les moteurs de recherche à <a href="{$path}" target="_blank">{$path}</a>]]></message>
-	<message key="manager.setup.sponsors.note">Vous pouvez ajouter une note décrivant votre politique en matière de commandite; celle-ci apparaitra dans la liste des commanditaires sur votre page À propos de.</message>
+	<message key="manager.setup.sponsors.note">Vous pouvez ajouter une note décrivant votre politique en matière de commandite ; celle-ci apparaitra dans la liste des commanditaires sur votre page À propos de.</message>
 	<message key="manager.setup.sponsors.description">Exemples : associations ou sociétés savantes, départements universitaires, coopératives, etc. Les commanditaire sont affichés publiquement.</message>
 	<message key="manager.setup.styleSheetDescription">Vous pouvez télécharger un fichier de Feuilles de style en cascade (FSC) supplémentaire pour modifier l’apparence.</message>
 	<message key="manager.setup.technicalSupportContact">Support technique</message>
