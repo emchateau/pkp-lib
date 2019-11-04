@@ -556,8 +556,10 @@
 	<message key="submission.list.infoCenter">Log d’activités et notes</message>
 	<message key="submission.list.count">{$count} soumissions</message>
 	<message key="submission.list.itemsOfTotal">{$count} sur {$total} soumissions</message>
+	<message key="submission.list.reviewerWorkflowLink"><![CDATA[On vous a assigné un rôle éditorial pour cette soumission. Souhaitez-vous accéder au <a href="{$urlEditorialWorkflow}">Flux éditorial</a> ?]]></message>
 	<message key="submission.list.responseDue">Réponse en attente</message>
 	<message key="submission.list.reviewDue">Rapport en attente</message>
+	<message key="submission.list.reviewComplete">Rapport déposé</message>
 	<message key="submission.list.confirmDelete">Supprimer la soumission ?</message>
 	<message key="submission.list.itemOrdererUp">Remonter {$itemTitle}</message>
 	<message key="submission.list.itemOrdererDown">Descendre {$itemTitle}</message>
