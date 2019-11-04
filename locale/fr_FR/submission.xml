@@ -551,6 +551,7 @@
 	<message key="submission.submit.submissionLocaleDescription">Les soumission dans plusieurs langues sont acceptées. Choisissez la langue principal de la soumission parmi celle présentes dans le menu déroulant.</message>
 	<message key="submission.authorBiography">Biographie de l’auteur</message>
 	<message key="submission.authorWithAffiliation">{$name}, {$affiliation}</message>
+	<message key="submission.query.participantTitle">{$fullName}, {$userGroup}</message>
 	<message key="submission.query.noParticipantOptions">Vous devez assigner au moins un participant à cette soumission avant d’initier une discussion.</message>
 	<message key="submission.list.infoCenter">Log d’activités et notes</message>
 	<message key="submission.list.count">{$count} soumissions</message>
