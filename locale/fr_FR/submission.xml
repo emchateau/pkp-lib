@@ -17,9 +17,9 @@
 	<message key="submission.submit.availableUserGroupsDescription">Sélectionner le rôle qui décrit le mieux votre contribution à cette soumission.</message>
 	<message key="submission.submit.contactConsent">Contact correspondant</message>
 	<message key="submission.submit.contactConsentDescription">Oui, je souhaiterais être contacté au sujet de cette soumission.</message>
-	<message key="submission.submit.userGroupDescriptionManagers">Avec les rôles suivants vous serez en mesure d’éditer ou publier cette soumission vous-même : {$managerGroups}</message>
+	<message key="submission.submit.userGroupDescriptionManagers">Avec le rôle ou les rôles suivants vous serez en mesure d’éditer ou publier cette soumission vous-même : {$managerGroups}</message>
 	<message key="common.queue.long.submissionsUnassigned">Soumissions non assignées</message>
-	<message key="common.queue.long.myAssigned">Les soumissions m’ayant été assignées</message>
+	<message key="common.queue.long.myAssigned">Ma file d’attente</message>
 	<message key="submission.authors">Auteurs</message>
 	<message key="submission.mySubmissions">Mes soumissions</message>
 	<message key="submission.agencies">Organismes</message>
@@ -363,11 +363,11 @@
 	<message key="submission.art">Illustrations</message>
 	<message key="submission.document">Document</message>
 	<message key="grid.action.itemWorkflow">Aller au flux des travaux de cette soumission.</message>
-	<message key="notification.type.editorAssignmentProduction">Il faut nommer un directeur de la production avant d’entamer le processus éditorial. Veuillez ajouter un directeur ou une directrice de la production en utilisant le lien Participants ci-dessus.</message>
+	<message key="notification.type.editorAssignmentProduction">Il faut nommer un directeur ou une directrice de la production avant d’entamer le processus éditorial. Veuillez ajouter un directeur ou une directrice de la production en utilisant le lien Participants ci-dessus.</message>
 	<message key="notification.type.editorAssignmentEditing">Il faut nommer un rédacteur metteur en page avant d’entamer le processus éditorial. Veuillez ajouter un rédacteur metteur en page en utilisant le lien Participants ci-dessus.</message>
 	<message key="submission.previousAuthorMessages">Messages précédents</message>
-	<message key="submission.submit.submissionCompleteThanks">Merci de vouloir publier dans « {$contextName} ».</message>
-	<message key="submission.submit.whatNext">Quelle est la prochaine étape ?</message>
+	<message key="submission.submit.submissionCompleteThanks">Merci d’avoir soumis cet article à la revue « {$contextName} ».</message>
+	<message key="submission.submit.whatNext">Quelles sont les prochaines étapes ?</message>
 	<message key="submission.submit.whatNext.forNow">Pour le moment, vous pouvez :</message>
 	<message key="submission.submit.whatNext.review">Réviser cette soumission</message>
 	<message key="submission.submit.whatNext.create">Créer une nouvelle soumission</message>
@@ -599,4 +599,18 @@
 	<message key="editor.submission.decision.previousAuthorNotification">Précédemment : Avertir l’auteur</message>
 	<message key="editor.submission.roundStatus.recommendationsReady">Nouvelles recommandations ont été soumises.</message>
 	<message key="editor.submission.roundStatus.recommendationsCompleted">Une décision éditoriale est attendue.</message>
+	<message key="submission.submit.form.languagesRequired">Merci de choisir une langue.</message>
+	<message key="submission.submit.form.subjectsRequired">Merci de choisir un sujet.</message>
+	<message key="submission.submit.form.disciplinesRequired">Merci de renseigner une discipline.</message>
+	<message key="submission.submit.form.keywordsRequired">Merci de renseigner les mot-clefs.</message>
+	<message key="submission.submit.form.agenciesRequired">Merci de renseigner le financeur.</message>
+	<message key="submission.submit.form.coverageRequired">Merci de renseigner la couverture géographique ou temporelle.</message>
+	<message key="submission.submit.form.typeRequired">Merci de reseigner le type.</message>
+	<message key="submission.submit.form.sourceRequired">Merci de renseigner la source.</message>
+	<message key="submission.submit.form.rightsRequired">Merci de renseigner les droits.</message>
+	<message key="submission.submit.form.citationsRequired">Merci d’entrer les références.</message>
+
+	<!-- Submission file upload form elements -->
+	<message key="submission.form.name">Nommer les fichiers de la manière suivante (p. ex., Manuscript; Table01)</message>
+	<message key="submission.form.replaceExisting">Remplacer un fichier existant ?</message>
 </locale>

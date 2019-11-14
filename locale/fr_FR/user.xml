@@ -104,11 +104,11 @@
 	<message key="user.profile">Profil</message>
 	<message key="user.profile.publicProfile">Profil utilisateur</message>
 	<message key="user.profile.repeatNewPassword">Saisir de nouveau le nouveau mot de passe</message>
-	
+
 	<!-- Login -->
 	<message key="user.login.registerNewAccount">Vous n’êtes pas un utilisateur ? Veuillez vous inscrire au site.</message>
 	<message key="user.login.resetPasswordInstructions"><![CDATA[Pour des raisons de sécurité, ce système envoie un nouveau mot de passe par courriel aux utilisateurs inscrits au lieu de rappeler le mot de passe actuel. .<br /><br />Indiquez votre adresse courriel ci-dessous pour réinitialiser votre mot de passe. Une confirmation sera envoyée par courriel.]]></message>
-	
+
 	<message key="user.register.form.privacyConsent"><![CDATA[Oui, j’accepte que mes données personnelles soient collectées et stockées conformément à la <a href="{$privacyUrl}" target="_blank">déclaration sur les données personnelles</a>.]]></message>
 	<message key="user.register.form.emailConsent">Oui, j’aimerais être informé des nouvelles publications et annonces.</message>
 	<message key="user.register.form.emailExists">L’adresse de courriel sélectionnée est déjà utilisée par un autre utilisateur.</message>
@@ -166,5 +166,5 @@
 	<message key="user.salutation">Salutation</message>
 	<message key="user.suffix">Suffixe</message>
 	<message key="user.initials">Initiales</message>
-	
+
 </locale>
