@@ -13,11 +13,11 @@
   -->
 
 <locale name="fr_FR" full_name="Français (France)">
-	<message key="submission.submit.availableUserGroups">Soumettre comme</message>
+	<message key="submission.submit.availableUserGroups">Soumettre en tant que :</message>
 	<message key="submission.submit.availableUserGroupsDescription">Sélectionner le rôle qui décrit le mieux votre contribution à cette soumission.</message>
 	<message key="submission.submit.contactConsent">Contact correspondant</message>
 	<message key="submission.submit.contactConsentDescription">Oui, je souhaiterais être contacté au sujet de cette soumission.</message>
-	<message key="submission.submit.userGroupDescriptionManagers">Soumetter dans n’importe quel rôles suivants si vous souhaitez être en mesure d’éditer ou publier cette soumission vous-même : {$managerGroups}</message>
+	<message key="submission.submit.userGroupDescriptionManagers">Avec les rôles suivants vous serez en mesure d’éditer ou publier cette soumission vous-même : {$managerGroups}</message>
 	<message key="common.queue.long.submissionsUnassigned">Soumissions non assignées</message>
 	<message key="common.queue.long.myAssigned">Les soumissions m’ayant été assignées</message>
 	<message key="submission.authors">Auteurs</message>

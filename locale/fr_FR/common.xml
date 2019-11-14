@@ -171,6 +171,8 @@
 	<message key="common.less">Réduire</message>
 	<message key="common.lessThan">{$value} ou moins</message>
 	<message key="common.commaListSeparator">, </message>
+	<!-- probably a bug in the interface -->
+	<message key="common.listSeparator">, </message>
 	<message key="common.semicolonListSeparator">; </message>
 	<message key="common.manage">Gérer</message>
 	<message key="common.mailingAddress">Adresse postale</message>
@@ -363,7 +365,7 @@
 	<message key="icon.mail.alt">Poster</message>
 	<message key="icon.unchecked.alt">Décoché</message>
 	<message key="icon.view.alt">Afficher</message>
-	
+
 	<!-- Information Center -->
 	<message key="informationCenter.informationCenter">Centre de renseignements</message>
 	<message key="informationCenter.editorialHistory">Historique de rédaction</message>
@@ -376,7 +378,7 @@
 	<message key="informationCenter.history.noItems">Aucune activité n’a été enregistrée.</message>
 	<message key="informationCenter.history.notePosted">Nouvelle note publiée.</message>
 	<message key="informationCenter.history.messageSent">Notification aux usager.</message>
-	
+
 	<!-- Stage Participants -->
 	<message key="stageParticipants.history.messageSent">Avis envoyé aux utilisateurs.</message>
 	<message key="stageParticipants.notify.startDiscussion">Débuter une discussion</message>
@@ -386,7 +388,7 @@
 	<message key="stageParticipants.notify.warning">Assurez-vous d’avoir rempli le champ Message et d’avoir choisi au moins un destinataire.</message>
 	<message key="stageParticipants.options">Assignation de privilèges</message>
 	<message key="stageParticipants.recommendOnly">Ce participant est seulement autorisé à faire une recommandation.</message>
-	
+
 	<message key="locale.primary">Langue par défaut</message>
 	<message key="locale.supported">Langues prises en charge</message>
 	<message key="navigation.access"><![CDATA[Utilisateurs &amp; Rôles]]></message>
@@ -491,20 +493,20 @@
 	<message key="search.titleIndex">Explorer l’index des titres</message>
 	<message key="search.title">Titre</message>
 	<message key="search.typeMethodApproach">Type (méthode/approche)</message>
-	
+
 	<!-- Common -->
 	<message key="grid.action.downloadFile">Télécharger ce fichier</message>
-	
+
 	<message key="context.path">Chemin d’accès</message>
 	<message key="review.ensuringBlindReview">Assurer un examen aveugle</message>
 	<message key="grid.action.showReviewPolicy">Lire la politique actuelle concernant la révision</message>
 	<message key="grid.action.deleteNotification">Supprimer la tâche</message>
 	<message key="grid.action.markNew">Marquer non lu</message>
 	<message key="grid.action.markRead">Marquer lu</message>
-	
+
 	<message key="dashboard.tasks">Tâches</message>
 	<message key="dashboard.myQueue">Ma file d’attente</message>
-	
+
 	<message key="review.blindPeerReview"><![CDATA[<p>Afin d’assurer l’intégrité de l’examen en aveugle des soumissions envoyées à cette presse, il faut faire tous les efforts possibles pour éviter que l’on révèle l’identité des auteurs et des rapporteurs. Pour ce faire, les auteurs, les réviseurs et les rapporteurs (qui téléchargent les documents dans le cadre de l’examen) doivent s’assurer de suivre les étapes suivantes en ce qui concerne les propriétés du texte et du fichier :</p>
 
 <ul><li>Supprimer le nom de l’auteur du texte. Dans la bibliographie et dans les notes en bas de page, on utilise le mot « Auteur » et l’année au lieu du nom de l’auteur, du titre de l’article, etc.</li>
@@ -520,7 +522,7 @@
 	<message key="reviewer.submission.reviewDueDate">Date limite de l’évaluation</message>
 	<message key="submission.task.responseDueDate">Date d’exigibilité de la réponse</message>
 	<message key="navigation.goBack">Retour</message>
-	
+
 	<message key="notification.addedReviewer">Un rapporteur a été ajouté.</message>
 	<message key="notification.addedReviewerNoEmail">{$reviewerName} a été choisi pour évaluer cette soumission et il n’a pas reçu de mail de notification</message>
 	<message key="notification.removedReviewer">Le rapporteur a été supprimé.</message>
@@ -544,12 +546,12 @@
 	<message key="notification.type.queryActivity">Activités sur la discusssion.</message>
 	<message key="notification.type.queryAdded">Discussion ajouté.</message>
 	<message key="notification.type.assignCopyeditors">Affectez un réviseur à l’aide du lien « Ajouter » dans la liste « Participants ».</message>
-	<message key="notification.type.awaitingCopyedits">En attente de copies.</message>	
+	<message key="notification.type.awaitingCopyedits">En attente de copies.</message>
 	<message key="notification.type.roundStatusTitle">Statut du cycle {$round} </message>
-	
+
 	<message key="semicolon">{$label} :</message>
-	
-	
+
+
 	<!-- Navigation Menus -->
 	<message key="notification.editedNavigationMenuItem">Le menu a été mis à jour.</message>
 	<message key="notification.removedNavigationMenuItem">L’élément du menu a été enlevé.</message>
@@ -557,16 +559,16 @@
 	<message key="notification.addedNavigationMenu">Le menu de navigation a été ajouté.</message>
 	<message key="notification.editedNavigationMenu">Le menu a été mis à jour</message>
 	<message key="notification.removedNavigationMenu">Le menu a été supprimé</message>
-	
+
 	<!-- List Handlers -->
 	<message key="list.viewMore">Voir plus de détails à propos de {$name}</message>
 	<message key="list.viewLess">Masquer les détails à propos de {$name}</message>
-	
-	
+
+
 	<!--<!-\- not in use anymore -\->
 	<message key="search.searchAllCategories">Rechercher dans toutes les catégories pour</message>
 	<message key="search.searchCategories">Catégories de recherche</message>
-	<message key="navigation.management">Gestion</message>	
+	<message key="navigation.management">Gestion</message>
 	<message key="common.signoff">Approuver</message>
 	<message key="common.element">Élément</message>
 	<message key="common.fileUpload.maxFileSizeStatus"><![CDATA[Ce serveur permet de transférer un fichier dont la taille maximale est {$fileSize}. Si nécessaire, contactez <a href="mailto:{$supportEmail}">{$supportName}</a> pour obtenir de l’aide.]]></message>
@@ -589,5 +591,5 @@
 	<message key="informationCenter.addSubmissionNote">Ajouter à la soumission</message>
 	<message key="informationCenter.currentNotes">Notes en cours</message>
 	<message key="informationCenter.lastUpdated">Dernière mise à jour</message>-->
-	
+
 </locale>
