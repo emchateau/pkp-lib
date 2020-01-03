@@ -583,9 +583,9 @@
 	<message key="submission.list.galleysCreated">Fichiers de production créés</message>
 	<message key="submission.list.copyeditsSubmitted">Fichiers de copyediting soumis</message>
 	<message key="submission.howToCite.downloadCitation">Télécharger la référence bibliographique</message>
-	<message key="editor.submission.roundStatus.pendingRecommendations">En attende de recommandations des éditors</message>
+	<message key="editor.submission.roundStatus.pendingRecommendations">En attente de recommandations des éditeurs</message>
 	<message key="submission.list.revisionsSubmitted">Révisions soumises</message>
-	<message key="notification.type.editorAssign">Vous avez été assigné en tant que rédacteur pour la soumission « {$title} ».</message>
+	<message key="notification.type.editorAssign">Vous avez été assigné en tant qu’éditrice ou éditeur pour la soumission « {$title} ».</message>
 	<message key="grid.reviewAttachments.send.title">Sélectionner les rapports à partager avec l’auteur</message>
 	<message key="editor.submission.makeRecommendation">Faire une recommandation</message>
 	<message key="editor.submission.changeRecommendation">Changer la recommandation</message>
@@ -594,7 +594,7 @@
 	<message key="editor.submission.recommendation">Recommandation</message>
 	<message key="editor.submission.recommendation.description">Faire une recommandation pour cette soumission.</message>
 	<message key="editor.submission.recordedRecommendations">Recommandations enregistrées</message>
-	<message key="editor.submission.decision.nextButton">Prochain : Sélection de fichiers pour  {$stageName}</message>
+	<message key="editor.submission.decision.nextButton">Prochain : Sélection de fichiers pour {$stageName}</message>
 	<message key="editor.submission.decision.selectFiles">Sélectionner les fichiers à envoyer à l’étape {$stageName}</message>
 	<message key="editor.submission.decision.previousAuthorNotification">Précédemment : Avertir l’auteur</message>
 	<message key="editor.submission.roundStatus.recommendationsReady">Nouvelles recommandations ont été soumises.</message>
@@ -602,7 +602,7 @@
 	<message key="submission.submit.form.languagesRequired">Merci de choisir une langue.</message>
 	<message key="submission.submit.form.subjectsRequired">Merci de choisir un sujet.</message>
 	<message key="submission.submit.form.disciplinesRequired">Merci de renseigner une discipline.</message>
-	<message key="submission.submit.form.keywordsRequired">Merci de renseigner les mot-clefs.</message>
+	<message key="submission.submit.form.keywordsRequired">Merci de renseigner les mots-clefs.</message>
 	<message key="submission.submit.form.agenciesRequired">Merci de renseigner le financeur.</message>
 	<message key="submission.submit.form.coverageRequired">Merci de renseigner la couverture géographique ou temporelle.</message>
 	<message key="submission.submit.form.typeRequired">Merci de reseigner le type.</message>

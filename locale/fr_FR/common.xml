@@ -498,7 +498,7 @@
 	<message key="grid.action.downloadFile">Télécharger ce fichier</message>
 
 	<message key="context.path">Chemin d’accès</message>
-	<message key="review.ensuringBlindReview">Assurer un examen aveugle</message>
+	<message key="review.ensuringBlindReview">Préparer votre article pour une évaluation en double aveugle</message>
 	<message key="grid.action.showReviewPolicy">Lire la politique actuelle concernant la révision</message>
 	<message key="grid.action.deleteNotification">Supprimer la tâche</message>
 	<message key="grid.action.markNew">Marquer non lu</message>

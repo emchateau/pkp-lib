@@ -257,7 +257,7 @@
 	<message key="manager.setup.reviewOptions.remindForInvite">Envoyer un rappel si le rapporteur n’a pas répondu à la demande d’examen dans le délai suivant (jours) :</message>
 	<message key="manager.setup.reviewOptions.remindForSubmit">Envoyer un rappel si le rapporteur n’a pas fait sa recommandation dans le délai suivant (jours) :</message>
 	<message key="manager.setup.reviewOptions.reviewTime">Date limite par défaut des évaluations</message>
-	<message key="manager.setup.reviewOptions.showBlindReviewLink">Présentez un lien "Assurer une évaluation à l’aveugle" lors du téléchargement</message>
+	<message key="manager.setup.reviewOptions.showBlindReviewLink">Présentez un lien « Préparer votre article pour une évaluation en double aveugle » lors du téléchargement</message>
 	<message key="manager.setup.searchEngineIndexing.sitemap">Sitemap</message>
 	<message key="manager.setup.searchEngineIndexing.sitemapDescription"><![CDATA[Un sitemap XML est disponible pour les moteurs de recherche à <a href="{$path}" target="_blank">{$path}</a>]]></message>
 	<message key="manager.setup.sponsors.note">Vous pouvez ajouter une note décrivant votre politique en matière de commandite ; celle-ci apparaitra dans la liste des commanditaires sur votre page À propos de.</message>

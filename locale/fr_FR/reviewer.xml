@@ -28,10 +28,10 @@
 	<message key="reviewer.submission.continueToStepThree">Continuer à l’étape #3</message>
 	<message key="reviewer.submission.submitReview">Soumettre l’examen</message>
 	<message key="reviewer.submission.reviewerGuidelines">Lignes directrices des rapporteurs</message>
-	<message key="reviewer.submission.enterCompetingInterests">La maison d’édition a adopté une politique de divulgation des intérêts opposés chez ses rapporteurs. Veuillez prendre un moment pour lire cette politique.</message>
-	<message key="reviewer.submission.noCompetingInterests">Je n’ai pas d’intérêts opposés.</message>
-	<message key="reviewer.submission.hasCompetingInterests">Il est possible que j’aie des intérêts opposés (veuillez spécifier).</message>
-	<message key="reviewer.submission.competingInterests">Intérêts opposés</message>
+	<message key="reviewer.submission.enterCompetingInterests">La maison d’édition a adopté une politique de divulgation des conflits d’intérêts chez ses rapporteurs. Veuillez prendre un moment pour lire cette politique.</message>
+	<message key="reviewer.submission.noCompetingInterests">Je n’ai pas de conflits d’intérêts.</message>
+	<message key="reviewer.submission.hasCompetingInterests">Il est possible que j’aie un conflit d’intérêts (veuillez préciser).</message>
+	<message key="reviewer.submission.competingInterests">Conflits d’intérêts</message>
 	<message key="reviewer.submission.guidelines">Lignes directrices des examens</message>
 	<message key="reviewer.submission.noGuidelines">Cet éditeur n’a pas établi de lignes directrices pour les rapporteurs.</message>
 	<message key="reviewer.submission.downloadDescription">Cliquez sur les noms des fichiers pour télécharger et examiner (sur l’écran ou après les avoir imprimés) les fichiers associés à cette soumission.</message>
