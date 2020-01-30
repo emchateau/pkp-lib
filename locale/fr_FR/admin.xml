@@ -76,7 +76,7 @@
 	<message key="admin.settings.form.titleRequired">Le titre est requis.</message>
 	<message key="admin.settings.defaultMetricDescription">
 		*Votre installation est configurée pour enregistrer plus d’une métrique d’utilisation. Les statistiques d’utilisation seront affichées dans plusieurs contextes.
-		Il y a des cas où une seule statistique d’utilisation doit être utilisée, par exemple pour afficher une liste ordonnée des soumissions les plus utilisées ou pour classer
+		Il y a des cas où une seule statistique d’utilisation doit être utilisée, par exemple pour afficher une liste ordonnée des propositions les plus utilisées ou pour classer
 		Les résultats de la recherche. Sélectionnez l’une des métriques configurées par défaut.
 	</message>
 	<message key="admin.settings.homeHeaderImage.altText">Logo du site</message>

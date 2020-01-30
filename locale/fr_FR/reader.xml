@@ -80,7 +80,7 @@
 	<message key="rt.admin.settings.emailOthers">Aviser un collègue (mène à un modèle de courriel contenant un lien vers l’article)</message>
 	<message key="rt.admin.settings.findingReferences">Trouver des références</message>
 	<message key="rt.admin.settings.printerFriendly">Version imprimable (offre une version imprimable d’un article).</message>
-	<message key="rt.admin.settings.supplementaryFiles">Fichiers supplémentaires (affiche une liste de fichiers que l’auteur a inclus avec sa soumission)</message>
+	<message key="rt.admin.settings.supplementaryFiles">Fichiers supplémentaires (affiche une liste de fichiers que l’auteur a inclus avec sa proposition)</message>
 	<message key="rt.admin.settings.viewMetadata">Indexer les métadonnées (affiche les métadonnées d’indexation d’un article fournies par l’auteur et le système)</message>
 	<message key="rt.admin.status">Statut</message>
 	<message key="rt.admin.configureSharing">Configurer AddThis</message>

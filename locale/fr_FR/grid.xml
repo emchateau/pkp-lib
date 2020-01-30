@@ -28,7 +28,7 @@
 	<message key="grid.action.deleteQuery">Supprimer la discussion</message>
 	<message key="grid.action.updateQuery">Mettre à jour la discussion</message>
 	<message key="grid.action.addUser">Ajouter un utilisateur</message>
-	<message key="grid.action.unassignReviewer">Désassigner le rapporteur</message>
+	<message key="grid.action.unassignReviewer">Désassigner l’évaluateur</message>
 	<message key="grid.action.approveCopyedit">Approuver ce fichier révisé afin qu’il soit envoyé à l’étape suivante.</message>
 	<message key="grid.action.reload">Retélécharger</message>
 	<message key="grid.action.delete">Supprimer</message>
@@ -62,16 +62,16 @@
 	<message key="grid.action.downloadAll">Télécharger tous les fichier en tant qu’archive</message>
 	<message key="grid.action.readReview">Lire cet examen</message>
 	<message key="grid.action.email">Envoyer un courriel</message>
-	<message key="grid.action.addReviewer">Ajouter un rapporteur</message>
+	<message key="grid.action.addReviewer">Ajouter un évaluateur</message>
 	<message key="grid.action.addFile">Ajouter un fichier</message>
 	<message key="grid.action.editFile">Modifier un fichier</message>
 	<message key="grid.action.selectFiles">Sélectionner les fichiers à gérer</message>
 	<message key="grid.action.requestRevisions">Demande de révisions à l’auteur</message>
-	<message key="grid.action.accept">Accepter cette soumission</message>
+	<message key="grid.action.accept">Accepter cette proposition</message>
 	<message key="grid.action.decline">Décliner</message>
-	<message key="grid.action.internalReview">Envoyer cette soumission à un rapporteur interne</message>
-	<message key="grid.action.externalReview">Envoyer cette soumission à un rapporteur externe</message>
-	<message key="grid.action.sendToProduction">Envoyer cette soumission à la production.</message>
+	<message key="grid.action.internalReview">Envoyer cette proposition à un évaluateur interne</message>
+	<message key="grid.action.externalReview">Envoyer cette proposition à un évaluateur externe</message>
+	<message key="grid.action.sendToProduction">Envoyer cette proposition en production.</message>
 	<message key="grid.action.settings">Paramètres</message>
 	<message key="grid.action.importexport">Importer ou exporter le contenu ou les données du site</message>
 	<message key="grid.action.orderItems">Activer le mode de commande</message>
@@ -90,12 +90,12 @@
 	<message key="grid.action.editUserGroup">Modifier ce groupe d’utilisateurs</message>
 	<message key="grid.action.disable">Désactiver</message>
 	<message key="grid.action.details">Visionner cet item</message>
-	<message key="grid.action.enrolExisting">Inscrire un nouvel utilisateur à titre de rapporteur</message>
-	<message key="grid.action.selectCreate">Créer un nouveau rapporteur</message>
+	<message key="grid.action.enrolExisting">Inscrire un nouvel utilisateur à titre d’évaluateur</message>
+	<message key="grid.action.selectCreate">Créer un nouvel évaluateur</message>
 	<message key="grid.action.search">Rechercher</message>
 	<message key="grid.action.advancedSearch">Recherche avancée</message>
 	<message key="grid.action.viewLibrary">Visionner la bibliothèque de documents</message>
-	<message key="grid.action.viewMetadata">Voir les métadonnées de cette soumission.</message>
+	<message key="grid.action.viewMetadata">Voir les métadonnées de cette proposition.</message>
 	<message key="grid.action.sendReminder">Envoyer un rappel de tâche à cet utilisateur</message>
 	<message key="grid.action.newRound">Créer une nouvelle série d’évaluations</message>
 	<message key="grid.action.viewReviewGuidelines">Voir les lignes directrices des examens</message>
@@ -109,7 +109,7 @@
 	<message key="grid.action.history">Voir l’historique</message>
 	<message key="grid.action.unconsiderReview">Cet examen est terminé, mais vous pouvez retirer votre considération.</message>
 	<message key="grid.action.enable">Activer</message>
-	<message key="grid.action.bookInfo">Renseignements sur la soumission</message>
+	<message key="grid.action.bookInfo">Renseignements sur la proposition</message>
 	<message key="grid.action.logInAs">Connexion sous</message>
 	<message key="grid.action.exportAllUsers">Exporter tous les utilisateurs</message>
 	<message key="grid.users.confirmExportAllUsers">Vous voulez vraiment exporter tous les utilisateurs ?</message>
@@ -167,14 +167,14 @@
 	
 	<!-- Library Files -->
 	<message key="grid.libraryFiles.column.files">Fichiers</message>
-	<message key="grid.libraryFiles.submission.title">Bibliothèque de soumission</message>
+	<message key="grid.libraryFiles.submission.title">Bibliothèque de la proposition</message>
 	<message key="grid.libraryFiles.editorial.title">Bibliothèque d’édition</message>
 	<message key="grid.libraryFiles.review.title">Bibliothèque d’évaluation</message>
 	<message key="grid.libraryFiles.production.title">Bibliothèque de production</message>
 	<message key="grid.libraryFiles.productionTemplate.title">Bibliothèque de modèle de production</message>
 	
 	<!-- SubmissionChecklist -->
-	<message key="grid.submissionChecklist.title">Liste de vérification de la soumission</message>
+	<message key="grid.submissionChecklist.title">Liste de vérification de la proposition</message>
 	<message key="grid.submissionChecklist.column.checklistItem">Élément de la liste de vérification</message>
 	
 	<!-- Submission Contributors -->
@@ -264,7 +264,7 @@
 	
 	<!-- Submission list grids -->
 	<message key="grid.submission.itemTitle">Auteur; Titre</message>
-	<message key="grid.submission.active.selectOrphaned">Inclure les soumissions incomplètes qui n’ont pas été soumises par un auteur.</message>
+	<message key="grid.submission.active.selectOrphaned">Inclure les propositions incomplètes qui n’ont pas été soumises par un auteur.</message>
 	
 	<!-- signoffs -->
 	<message key="grid.action.viewSignoffNotes">Visionner les notes de certification de conformité</message>

@@ -60,7 +60,7 @@
 	<message key="manager.announcementTypes.typeName">Type d’annonce</message>
 	
 	<!-- Publication Process settings -->
-	<message key="manager.publication.submissionStage">Soumission</message>
+	<message key="manager.publication.submissionStage">Proposition</message>
 	<message key="manager.publication.reviewStage">Évaluation</message>
 	<message key="manager.publication.editorialStage">Éditorial</message>
 	<message key="manager.publication.productionStage">Production</message>
@@ -111,7 +111,7 @@
 	<message key="manager.groups.title">Titre</message>
 	<message key="manager.importExport">Importer/Exporter les données</message>
 	<message key="manager.language.ui">UI</message>
-	<message key="manager.language.submissions">Soumissions</message>
+	<message key="manager.language.submissions">Propositions</message>
 	<message key="manager.language.forms">Formulaires</message>
 	<message key="manager.language.reloadLocalizedDefaultSettings">Retélécharger les paramètres par défaut</message>
 	<message key="manager.languages.alternateLocaleInstructions">Ce système permet, de façon facultative, la saisie de certaines informations critiques dans plusieurs langues supplémentaires. Pour utiliser cette fonctionnalité, sélectionner d’autres langues à partir des options énumérées ci-dessous.</message>
@@ -166,7 +166,7 @@
 	<message key="manager.readingTools">Outils de lecture</message>
 	<message key="manager.userSearch.searchByName">Rechercher un usager par son nom</message>
 	<message key="manager.reviewerSearch.change">Changé</message>
-	<message key="manager.reviewerSearch.searchByName">Chercher un rapporteur par nom</message>
+	<message key="manager.reviewerSearch.searchByName">Chercher un évaluateur par nom</message>
 	<message key="manager.reviewerSearch.searchByName.short">Recherche par nom</message>
 	<message key="manager.reviewerSearch.interests">Intérêts d’évaluation</message>
 	<message key="manager.reviewerSearch.form.instructions">Utilisez le formulaire ci-dessous pour indiquer les valeurs maximales des termes de votre recherche. Le formulaire contient les moyennes calculées de ces champs.</message>
@@ -174,7 +174,7 @@
 	<message key="manager.statistics">Statistiques et rapports</message>
 	<message key="manager.statistics.defaultMetricDescription">Votre {$contextObjectName} a été configuré pour enregistrer plus d’une mesure d’utilisation. Les statistiques d’utilisation seront affichées dans plusieurs contextes.
 		
-		Il arrive parfois qu’une seule statistique d’utilisation doit être utilisée, par exemple pour afficher une liste ordonnée des soumissions les plus utilisées ou pour ordonner les résultats de la recherche. Veuillez choisir l’une des mesures configurées à titre de mesure par défaut.</message>
+		Il arrive parfois qu’une seule statistique d’utilisation doit être utilisée, par exemple pour afficher une liste ordonnée des propositions les plus utilisées ou pour ordonner les résultats de la recherche. Veuillez choisir l’une des mesures configurées à titre de mesure par défaut.</message>
 	<message key="manager.statistics.city">Ville</message>
 	<message key="manager.statistics.region">Région</message>
 	<message key="manager.statistics.reports">Générateur de rapports</message>
@@ -217,7 +217,7 @@
 	<message key="manager.setup.authorCopyrightNotice">Avis de droits d’auteur</message>
 	<message key="manager.setup.authorCopyrightNoticeAgree">Nécessite que les auteurs acceptent l’avis de droit d’auteur dans le cadre du processus de soumission.</message>
 	<message key="manager.setup.authorGuidelines">Normes pour les auteurs</message>
-	<message key="manager.setup.authorGuidelines.description">Les lignes directrices comprennent des normes bibliographiques et de mise en forme, ainsi que des exemples de formats de citation communs à utiliser dans les soumissions.</message>
+	<message key="manager.setup.authorGuidelines.description">Les lignes directrices comprennent des normes bibliographiques et de mise en forme, ainsi que des exemples de formats de citation communs à utiliser dans les propositions d’articles.</message>
 	<message key="manager.setup.competingInterests">Intérêts concurrents</message>
 	<message key="manager.setup.competingInterestsDescription">Les rapporteurs devront respecter la politique de divulgation des intérêts concurrents que vous spécifiez ci-dessous.</message>
 	<message key="manager.setup.errorDeletingItem">Il s’est produit une erreur lors de la suppression de cet élément.</message>
@@ -236,20 +236,20 @@
 	<message key="manager.setup.layout.unselected">Non sélectionné</message>
 	<message key="manager.setup.loggingAndAuditing">Journalisation et audit</message>
 	<message key="manager.setup.logo">Logo</message>
-	<message key="manager.setup.notifications">Notification d’une soumission par auteur</message>
+	<message key="manager.setup.notifications">Notification d’une proposition par auteur</message>
 	<message key="manager.setup.notifications.copyPrimaryContact">Envoyer une copie au contact principal identifié à l’étape 1 de la configuration</message>
 	<message key="manager.setup.notifications.copySpecifiedAddress">Envoyer une copie à cette adresse courriel</message>
-	<message key="manager.setup.notifications.description">Les auteurs reçoivent automatiquement un courrier électronique leur confirmant la réception de leur soumission. On peut aussi avoir des copies de ce message envoyé à :</message>
+	<message key="manager.setup.notifications.description">Les auteurs reçoivent automatiquement un courrier électronique leur confirmant la réception de leur proposition. On peut aussi avoir des copies de ce message envoyé à :</message>
 	<message key="manager.setup.openAccessPolicy">Politiques sur le libre accès</message>
 	<message key="manager.setup.openAccessPolicy.description">Si vous fournissez un accès immédiat et gratuit à tout le contenu publié, vous pouvez inscrire une description de votre politique sur le libre accès.</message>
 	<message key="manager.setup.pageHeaderLogoImageInvalid">Format d’image du logo de l’en-tête de la page invalide. Les formats acceptés sont .gif, .jpg, ou .png.</message>
 	<message key="manager.setup.pageFooter">Pied de page</message>
 	<message key="manager.setup.pageFooterDescription">Entrer une image, du texte ou du code HTML que vous voudriez voir apparaître au bas de votre site web.</message>
-	<message key="manager.setup.peerReview.description">Décrivez la politique et les processus d’examen par les pairs pour les lecteurs et les auteurs. Cette description comprend souvent le nombre de rapporteurs impliqués dans l’examen d’une soumission, les critères par lesquels les rapporteurs sont invités à juger ces soumissions, le temps prévu pour effectuer les évaluations et enfin, les critères utilisés pour sélectionner les rapporteurs.</message>
+	<message key="manager.setup.peerReview.description">Décrivez la politique et les processus d’examen par les pairs pour les lecteurs et les auteurs. Cette description comprend souvent le nombre de rapporteurs impliqués dans l’examen d’une proposition, les critères par lesquels les rapporteurs sont invités à juger ces propositions, le temps prévu pour effectuer les évaluations et enfin, les critères utilisés pour sélectionner les rapporteurs.</message>
 	<message key="manager.setup.principalContact">Contact principal</message>
 	<message key="manager.setup.principalContactDescription">Entrez les coordonnées d’un rédacteur en chef, d’un membre de la rédaction ou du personnel administratif qui peuvent être affichées sur la version public de votre site Web.</message>
 	<message key="manager.setup.privacyStatement">Déclaration sur les données personnelles</message>
-		<message key="manager.setup.privacyStatement.description">Cette déclaration apparaîtra pendant l’enregistrement des utilisateurs, la soumission des auteurs, et sur la page privée accessible publiquement. Dans certaines juridictions, vous devez déclarer la manière dont vous gérez les données utilisateurs.</message>
+		<message key="manager.setup.privacyStatement.description">Cette déclaration apparaîtra pendant l’enregistrement des utilisateurs, la proposition des auteurs, et sur la page privée accessible publiquement. Dans certaines juridictions, vous devez déclarer la manière dont vous gérez les données utilisateurs.</message>
 	<message key="manager.setup.reviewOptions.numWeeksPerResponse">Délai de réponse alloué (semaines)</message>
 	<message key="manager.setup.reviewOptions.numWeeksPerReview">Délai alloué pour la révision (semaines)</message>
 	<message key="manager.setup.reviewOptions.neverSendReminder">Ne jamais rappeler</message>
@@ -264,7 +264,7 @@
 	<message key="manager.setup.sponsors.description">Exemples : associations ou sociétés savantes, départements universitaires, coopératives, etc. Les commanditaire sont affichés publiquement.</message>
 	<message key="manager.setup.styleSheetDescription">Vous pouvez télécharger un fichier de Feuilles de style en cascade (FSC) supplémentaire pour modifier l’apparence.</message>
 	<message key="manager.setup.technicalSupportContact">Support technique</message>
-	<message key="manager.setup.technicalSupportContactDescription">Une personne-ressource qui peut aider les rédacteurs en chef, les auteurs et les rapporteurs à résoudre des problèmes lors d’une soumission, de l’édition, de l’évaluation ou lors de la publication de documents.</message>
+	<message key="manager.setup.technicalSupportContactDescription">Une personne-ressource qui peut aider les rédacteurs en chef, les auteurs et les rapporteurs à résoudre des problèmes lors d’une proposition, de l’édition, de l’évaluation ou lors de la publication de documents.</message>
 	<message key="manager.siteAccessOptions.siteAccessOptions">Options d’accès au site</message>
 	<message key="manager.statistics.statistics.count.value">{$count} ({$percentage}%)</message>
 	<message key="manager.statistics.statistics.totalNewValue">{$numTotal} ({$numNew} nouveau(x))</message>
@@ -406,8 +406,8 @@
 	<message key="grid.action.editGenre">Modifier ce genre</message>
 	<message key="grid.action.deleteGenre">Supprimer ce genre</message>
 	<message key="grid.action.restoreGenres">Restaurer les paramètres par défaut des genres.</message>
-	<message key="manager.setup.genres.dependent">Marquer les fichiers de ce type en tant que fichiers indépendants (ex. : ne sont pas des soumissions principales)</message>
-	<message key="manager.setup.genres.supplementary">Marquer les fichiers de ce type en tant que fichiers supplémentaires (par exemple, ne font pas partie du contenu principal de la soumission)</message>
+	<message key="manager.setup.genres.dependent">Marquer les fichiers de ce type en tant que fichiers indépendants (ex. : ne sont pas des propositions principales)</message>
+	<message key="manager.setup.genres.supplementary">Marquer les fichiers de ce type en tant que fichiers supplémentaires (par exemple, ne font pas partie du contenu principal de la proposition)</message>
 	<message key="manager.setup.genres.key">Clef</message>
 	<message key="manager.setup.genres.key.description">Un identifiant symbolique court optionnel pour ce genre.</message>
 	<message key="manager.setup.genres.key.exists">La clef existe déjà.</message>
@@ -469,7 +469,7 @@
 	
 	<message key="manager.setup.licenseURLDescription">URL de la page décrivant la licence, si disponible.</message>
 	
-	<message key="manager.setup.metadata.submission">Formulaire de soumission</message>
+	<message key="manager.setup.metadata.submission">Formulaire de proposition</message>
 	<!--  common importexport keys -->
 	<message key="plugins.importexport.common.validationErrors">Erreurs de validation :</message>
 	<message key="plugins.importexport.common.warningsEncountered">Des erreurs non graves ont été rencontrées :</message>
@@ -479,13 +479,13 @@
 	<message key="plugins.importexport.common.error.unknownEncoding">Encodage inconnu {$param}</message>
 	<message key="plugins.importexport.common.error.encodingError">Le contenu n’est pas encodé comme {$param}</message>
 	<message key="plugins.importexport.common.error.unknownUserGroup">Groupe d’utilisateur inconnu {$param}</message>
-	<message key="plugins.importexport.common.error.missingGivenName">L’auteur {$authorName} n’a pas de nom de famille dans la langue de la soumission, {$localeName}. La soumission ne peut être importée sans cette information.</message>
+	<message key="plugins.importexport.common.error.missingGivenName">L’auteur {$authorName} n’a pas de nom de famille dans la langue de la proposition, {$localeName}. La proposition ne peut être importée sans cette information.</message>
 	<message key="plugins.importexport.common.error.unknownUploader">Téléverseur inconnu {$param}</message>
 	<message key="plugins.importexport.common.error.temporaryFileFailed">Le fichier temporaire {$dest} ne peut pas être créé depuis {$source}</message>
 	<message key="plugins.importexport.common.error.filesizeMismatch">La taille fournie  « {$expected} »  et la taille actuelle « {$actual} » sont différentes</message>
 	<message key="plugins.importexport.common.error.duplicateRevisionForSubmission">La révision « {$revisionId} » pour le fichier « {$fileId} » créerait un duplica</message>
 	<!-- native importexport keys -->
-	<message key="plugins.importexport.native.error.submissionFileImportFailed">Le fichier de la soumission n’a pu être importé</message>
+	<message key="plugins.importexport.native.error.submissionFileImportFailed">Le fichier de la proposition n’a pu être importé</message>
 	
 	<!-- native import user keys -->
 	<message key="plugins.importexport.user.importExportErrors">Erreur d’Importation/Exportation :</message>
@@ -547,7 +547,7 @@
 	<message key="manager.navigationMenus.mySubscriptions.conditionalWarning">Ce lien sera seulement présenté si le visiteur est connecté, et que les paiements sont activés sous Réglages > Distribution > Paiements et Abonnements requis dans Réglage > Distribution > Accès.</message>
 	<message key="manager.navigationMenus.search.description">Lien vers la page de recherche.</message>
 	<message key="manager.navigationMenus.privacyStatement.description">Lien vers la page présentant la déclaration sur les données personnelles.</message>
-	<message key="manager.navigationMenus.privacyStatement.conditionalWarning">Ce lien sera seulement présenté si vous avez renseigné une déclaration sur les données personnelles sous Réglages > Workflow > Soumission.</message>
+	<message key="manager.navigationMenus.privacyStatement.conditionalWarning">Ce lien sera seulement présenté si vous avez renseigné une déclaration sur les données personnelles sous Réglages > Flux des travaux > Proposition.</message>
 	
 	
 	<!--<!-\- not in use anymore -\->

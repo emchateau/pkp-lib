@@ -110,7 +110,7 @@
 	<message key="common.date">Date</message>
 	<message key="common.dateModified">Date de modification</message>
 	<message key="common.dateRequested">Date d’échéance</message>
-	<message key="common.dateSubmitted">Date de soumission</message>
+	<message key="common.dateSubmitted">Date de proposition</message>
 	<message key="common.dateUploaded">Date de transfert</message>
 	<message key="common.dateHijri">Calendrier Hijri</message>
 	<message key="common.day">Jour</message>
@@ -214,7 +214,7 @@
 	<message key="common.pluginDisabled">Le plugiciel « {$pluginName} » a été désactivé.</message>
 	<message key="common.prefix">Préfixe</message>
 	<message key="common.prefixAndTitle.tip">Si le titre du document commence par « un/une » ou « le/la » (ou quelque chose de similaire concernant l’ordre alphabétique), mettre le mot dans Préfixe.</message>
-	<message key="common.subtitle.tip">Le titre optionnel de la soumission suivra les deux points (:), après le titre principal.</message>
+	<message key="common.subtitle.tip">Le titre optionnel de la proposition suivra les deux points (:), après le titre principal.</message>
 	<message key="common.preview">Aperçu</message>
 	<message key="common.publisher">Éditeur</message>
 	<message key="common.quality">Qualité</message>
@@ -425,7 +425,7 @@
 	<message key="navigation.skip.nav">Aller directement au menu principal</message>
 	<message key="navigation.skip.footer">Aller au pied de page</message>
 	<message key="navigation.stepNumber">Étape {$step}</message>
-	<message key="navigation.submissions">Soumissions</message>
+	<message key="navigation.submissions">Propositions</message>
 	<message key="navigation.system">Système</message>
 	<message key="navigation.userHome">Accueil de l’utilisateur</message>
 	<message key="navigation.user">Utilisateur</message>
@@ -435,7 +435,7 @@
 	<message key="notification.removedAuditor">Le vérificateur a été supprimé.</message>
 	<message key="notification.addedQuery">Discussion ajoutée</message>
 	<message key="notification.reviewAcknowledged">On a accusé réception de l’évaluation. Aucun courriel envoyé.</message>
-	<message key="notification.reviewerThankedEmail">Le mail de remerciements a été envoyé au rapporteur.</message>
+	<message key="notification.reviewerThankedEmail">Le courriel de remerciements a été envoyé à l’évaluateur.</message>
 	<message key="notification.updatedReviewFiles">Fichiers d’évaluation mis à jour.</message>
 	<message key="notification.allow">Permettre à ces types d’avis d’apparaître dans mon flux d’avis.</message>
 	<message key="notification.addedAnnouncementType">Type d’annonce ajouté.</message>
@@ -453,7 +453,7 @@
 	<message key="notification.addedNote">Note publiée.</message>
 	<message key="notification.removedNote">Note supprimée.</message>
 	<message key="notification.removedFile">Fichier supprimé.</message>
-	<message key="notification.removedSubmission">Soumission retirée.</message>
+	<message key="notification.removedSubmission">Proposition retirée.</message>
 	<message key="notification.notification">Avis</message>
 	<message key="notification.notifications">Avis</message>
 	<message key="notification.sentNotification">Avis envoyé.</message>
@@ -461,8 +461,8 @@
 	<message key="notification.settingsDescription">Choisir les événements système dont vous voulez être informé par l’intermédiaire d’avis. Désélectionner un élément empêchera les avis reliés à cet événement d’apparaître dans votre flux d’avis.</message>
 	<message key="notification.reminderError">Il s’est produit une erreur lors de l’envoi de votre mot de passe. Veuillez vous assurer que vous avez saisi votre adresse de courriel correctement.</message>
 	<message key="notification.reminderSent">Votre nouveau mot de passe a été envoyé à l’adresse de courriel fournie.</message>
-	<message key="notification.savedSubmissionMetadata">Les métadonnées de la soumission ont été sauvegardées.</message>
-	<message key="notification.sendNotificationConfirmation">Envoyer un mail à tous les utilisateurs d’OJS</message>
+	<message key="notification.savedSubmissionMetadata">Les métadonnées de la proposition ont été sauvegardées.</message>
+	<message key="notification.sendNotificationConfirmation">Envoyer un courriel à tous les utilisateurs d’OJS</message>
 	<message key="search.author">Auteurs</message>
 	<message key="search.abstract">Résumé</message>
 	<message key="search.advancedFilters">Filtres avancés</message>
@@ -507,7 +507,7 @@
 	<message key="dashboard.tasks">Tâches</message>
 	<message key="dashboard.myQueue">Ma file d’attente</message>
 
-	<message key="review.blindPeerReview"><![CDATA[<p>Afin d’assurer l’intégrité de l’examen en aveugle des soumissions envoyées à cette presse, il faut faire tous les efforts possibles pour éviter que l’on révèle l’identité des auteurs et des rapporteurs. Pour ce faire, les auteurs, les réviseurs et les rapporteurs (qui téléchargent les documents dans le cadre de l’examen) doivent s’assurer de suivre les étapes suivantes en ce qui concerne les propriétés du texte et du fichier :</p>
+	<message key="review.blindPeerReview"><![CDATA[<p>Afin d’assurer l’intégrité de l’examen en aveugle des proposition envoyées à cette presse, il faut faire tous les efforts possibles pour éviter que l’on révèle l’identité des auteurs et des évaluateurs. Pour ce faire, les auteurs, les réviseurs et les évaluateurs (qui téléchargent les documents dans le cadre de l’examen) doivent s’assurer de suivre les étapes suivantes en ce qui concerne les propriétés du texte et du fichier :</p>
 
 <ul><li>Supprimer le nom de l’auteur du texte. Dans la bibliographie et dans les notes en bas de page, on utilise le mot « Auteur » et l’année au lieu du nom de l’auteur, du titre de l’article, etc.</li>
 
@@ -523,9 +523,9 @@
 	<message key="submission.task.responseDueDate">Date d’exigibilité de la réponse</message>
 	<message key="navigation.goBack">Retour</message>
 
-	<message key="notification.addedReviewer">Un rapporteur a été ajouté.</message>
-	<message key="notification.addedReviewerNoEmail">{$reviewerName} a été choisi pour évaluer cette soumission et il n’a pas reçu de mail de notification</message>
-	<message key="notification.removedReviewer">Le rapporteur a été supprimé.</message>
+	<message key="notification.addedReviewer">Un évaluateur a été ajouté.</message>
+	<message key="notification.addedReviewerNoEmail">{$reviewerName} a été choisi pour évaluer cette proposition et il n’a pas reçu de courriel de notification</message>
+	<message key="notification.removedReviewer">L’évaluateur a été supprimé.</message>
 	<message key="notification.addedStageParticipant">L’utilisateur a été ajouté à titre de participant.</message>
 	<message key="notification.type.newAnnouncement">Nouvelle annonce.</message>
 	<message key="notification.type.reviewAssignment">Vous avez une évaluation en attente.</message>
@@ -538,11 +538,11 @@
 	<message key="notification.type.metadataModified">Les metadata de « {$title} » ont été modifiées.</message>
 	<message key="notification.type.reviewerComment">Un réviseur a laissé un commentaire sur « {$title} ».</message>
 	<message key="notification.signedFile">Fichier considéré.</message>
-	<message key="user.authorization.submissionFile">L’utilisateur actuel n’a pas accès au fichier de soumission spécifié.</message>
-	<message key="user.authorization.invalidSubmission">Soumission invalide</message>
+	<message key="user.authorization.submissionFile">L’utilisateur actuel n’a pas accès au fichier de la proposition spécifié.</message>
+	<message key="user.authorization.invalidSubmission">Proposition invalide</message>
 	<message key="user.authorization.invalidRepresentation">Représentation invalide.</message>
-	<message key="user.authorization.authorRoleMissing">Vos privilèges actuels ne vous permettent pas de visionner cette soumission. Veuillez modifier votre profil pour vous assurer que l’on vous a assigné les rôles appropriés dans la section "S’inscrire comme".</message>
-	<message key="user.authorization.submissionAuthor">L’utilisateur actuel n’est pas l’auteur de la soumission demandée. Veuillez vous assurer d’avoir ouvert une session avec le compte d’utilisateur approprié.</message>
+	<message key="user.authorization.authorRoleMissing">Vos droits actuels ne vous permettent pas de visionner cette proposition. Veuillez consulter votre profil pour vous assurer que l’on vous a assigné les rôles appropriés dans la section « S’inscrire comme ».</message>
+	<message key="user.authorization.submissionAuthor">L’utilisateur connecté n’est pas l’auteur de la proposition demandée. Veuillez vous assurer d’avoir ouvert une session avec le compte d’utilisateur approprié.</message>
 	<message key="notification.type.queryActivity">Activités sur la discusssion.</message>
 	<message key="notification.type.queryAdded">Discussion ajouté.</message>
 	<message key="notification.type.assignCopyeditors">Affectez un réviseur à l’aide du lien « Ajouter » dans la liste « Participants ».</message>
