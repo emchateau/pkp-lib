@@ -507,7 +507,7 @@
 	<message key="dashboard.tasks">Tâches</message>
 	<message key="dashboard.myQueue">Ma file d’attente</message>
 
-	<message key="review.blindPeerReview"><![CDATA[<p>Afin d’assurer l’intégrité de l’examen en aveugle des proposition envoyées à cette presse, il faut faire tous les efforts possibles pour éviter que l’on révèle l’identité des auteurs et des évaluateurs. Pour ce faire, les auteurs, les réviseurs et les évaluateurs (qui téléchargent les documents dans le cadre de l’examen) doivent s’assurer de suivre les étapes suivantes en ce qui concerne les propriétés du texte et du fichier :</p>
+	<message key="review.blindPeerReview"><![CDATA[<p>Afin d’assurer l’intégrité de l’examen à l’aveugle des proposition envoyées à cette presse, il faut faire tous les efforts possibles pour éviter que l’on révèle l’identité des auteurs et des évaluateurs. Pour ce faire, les auteurs, les réviseurs et les évaluateurs (qui téléchargent les documents dans le cadre de l’examen) doivent s’assurer de suivre les étapes suivantes en ce qui concerne les propriétés du texte et du fichier :</p>
 
 <ul><li>Supprimer le nom de l’auteur du texte. Dans la bibliographie et dans les notes en bas de page, on utilise le mot « Auteur » et l’année au lieu du nom de l’auteur, du titre de l’article, etc.</li>
 
@@ -546,7 +546,7 @@
 	<message key="notification.type.queryActivity">Activités sur la discusssion.</message>
 	<message key="notification.type.queryAdded">Discussion ajouté.</message>
 	<message key="notification.type.assignCopyeditors">Affectez un réviseur à l’aide du lien « Ajouter » dans la liste « Participants ».</message>
-	<message key="notification.type.awaitingCopyedits">En attente de copies.</message>
+	<message key="notification.type.awaitingCopyedits">En attente de la révision de copie.</message>
 	<message key="notification.type.roundStatusTitle">Statut du cycle {$round} </message>
 
 	<message key="semicolon">{$label} :</message>

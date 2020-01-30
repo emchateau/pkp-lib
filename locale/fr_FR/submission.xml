@@ -45,11 +45,11 @@
 	<message key="submission.comments.sendDecisionToReviewers">Envoyer la décision éditoriale aux évaluateurs</message>
 	<message key="submission.comments.subject">Objet</message>
 	<message key="submission.complete">Terminé</message>
-	<message key="submission.copyediting">Copyediting</message>
+	<message key="submission.copyediting">Préparation de copie</message>
 	<message key="submission.done">Terminer</message>
 	<message key="submission.dueDate">Date d’échéance</message>
 	<message key="submission.due">Échéance</message>
-	<message key="submission.editing">Copyediting</message>
+	<message key="submission.editing">Préparation de copie</message>
 	<message key="submission.editMetadata">Modifier les métadonnées</message>
 	<message key="submission.email.backToEmailLog">Retour au Registre de courriels</message>
 	<message key="submission.email.confirmClearLog">Êtes-vous certain de vouloir effacer le registre de courriels pour cette proposition ?</message>
@@ -404,7 +404,7 @@
 	<message key="metadata.property.validationMessage.nonSort">Saisir seulement les premiers caractères du titre qui devraient être ignorés au moment du classement du titre.</message>
 	<message key="submission.comments.addReviews">Ajouter les évaluations au courriel</message>
 	<message key="submission.contributorsDescription">La liste des contributeurs associés à cette proposition d’article peut contenir d’autres auteurs, les auteurs d’un chapitre d’un ouvrage édité par plusieurs auteurs, les directeurs d’un volume, et/ou les traducteurs. Un contributeur de cette liste peut être désigné en tant que principal point de contact pour la correspondance liée à la publication ; cela ne doit pas nécessairement être l’auteur de la proposition.</message>
-	<message key="submission.copyedited">Version(s) révisée(s)</message>
+	<message key="submission.copyedited">Version(s) relue(s)</message>
 	<message key="submission.coverage">Renseignements sur la couverture</message>
 	<message key="submission.coverage.tip">Les champs suivants contiennent des renseignements sur la couverture de la proposition d’article. Il peut s’agir de périodes chronologiques (ex. : 1920-1940 ; le 17e siècle), et d’endroits géographiques (ex. : Boston, MA, Nord de l’Angleterre). Si vous le souhaitez, vous pouvez utiliser le champ de couverture modèle pour ajouter un exemple pertinent tiré de vos travaux.</message>
 	<message key="submission.coverage.chron">Couverture chronologique ou historique</message>
@@ -485,7 +485,7 @@
 	<message key="submission.authorBiographies">Bibliographies de l’auteur</message>
 	<message key="submission.shortAuthor">{$author} et al.</message>
 	<message key="submission.changeFile">Modifier le fichier</message>
-	<message key="submission.editorial">Copyediting</message>
+	<message key="submission.editorial">Préparation de copie</message>
 	<message key="submission.queryNoteFiles">Fichier(s) de discussion</message>
 	<message key="submission.event.subjectPrefix">Un courriel a été envoyé :</message>
 	<message key="submission.event.viewEmail">Voir le courriel</message>
@@ -581,7 +581,7 @@
 	<message key="submission.review.status.thanked">Cette évaluation est finie et l’évaluateur a été remercié pour sa contribution.</message>
 	<message key="submission.review.status.reviewOverdue">L’évaluateur a dépassé le délai de retour.</message>
 	<message key="submission.list.galleysCreated">Fichiers de production créés</message>
-	<message key="submission.list.copyeditsSubmitted">Fichiers de copyediting soumis</message>
+	<message key="submission.list.copyeditsSubmitted">Fichiers de préparation de copie soumis</message>
 	<message key="submission.howToCite.downloadCitation">Télécharger la référence bibliographique</message>
 	<message key="editor.submission.roundStatus.pendingRecommendations">En attente de recommandations des éditeurs</message>
 	<message key="submission.list.revisionsSubmitted">Révisions soumises</message>

@@ -99,7 +99,7 @@
 	<message key="grid.action.sendReminder">Envoyer un rappel de tâche à cet utilisateur</message>
 	<message key="grid.action.newRound">Créer une nouvelle série d’évaluations</message>
 	<message key="grid.action.viewReviewGuidelines">Voir les lignes directrices des examens</message>
-	<message key="grid.action.viewCompetingInterestGuidelines">Voir la politique concernant les intérêts opposés</message>
+	<message key="grid.action.viewCompetingInterestGuidelines">Consulter la politique concernant les conflits d’intérêt</message>
 	<message key="grid.action.thankReviewer">Envoyer un message de remerciement à cet utilisateur</message>
 	<message key="grid.action.uploadFile">Transférer un fichier</message>
 	<message key="grid.action.addAnnouncementType">Ajouter un type d’annonce</message>
@@ -260,7 +260,7 @@
 	<message key="grid.userGroup.cantRemoveUserGroup">Impossible de retirer le rôle {$userGroupName} car il est présentement assigné à {$usersCount} usagé(s).</message>
 	<message key="grid.userGroup.removed">Le rôle {$userGroupName} est retiré.</message>
 	<message key="grid.userGroup.assignedStage">Le rôle {$userGroupName} est assigné à l’étape {$stageName}.</message>
-	<message key="grid.userGroup.unassignedStage">Le rôle {$userGroupName} est désassigner de l’étape {$stageName}.</message>
+	<message key="grid.userGroup.unassignedStage">Le rôle {$userGroupName} est désassigné de l’étape {$stageName}.</message>
 	
 	<!-- Submission list grids -->
 	<message key="grid.submission.itemTitle">Auteur; Titre</message>
