@@ -316,7 +316,7 @@
 	<message key="submission.actionNeeded">Action requise</message>
 	<message key="reviewer.submission.reviewFiles">Fichiers d’évaluation</message>
 	<message key="submission.submit.currentFile">Fichier en cours</message>
-	<message key="submission.finalDraft">Fichiers des ébauches finales</message>
+	<message key="submission.finalDraft">Fichiers des articles acceptés</message>
 
 	<!-- Auditor keys -->
 	<message key="editor.submission.addAuditorError">Erreur : l’auditeur n’a pas pu être assigné. Essayez encore.</message>
@@ -559,7 +559,7 @@
 	<message key="submission.list.reviewerWorkflowLink"><![CDATA[On vous a assigné un rôle éditorial pour cette proposition. Souhaitez-vous accéder au <a href="{$urlEditorialWorkflow}">Flux éditorial</a> ?]]></message>
 	<message key="submission.list.responseDue">Réponse en attente</message>
 	<message key="submission.list.reviewDue">Évaluation en attente</message>
-	<message key="submission.list.reviewComplete">Évaluation déposé</message>
+	<message key="submission.list.reviewComplete">Évaluation déposée</message>
 	<message key="submission.list.confirmDelete">Supprimer la proposition ?</message>
 	<message key="submission.list.viewSubmission">Voir la proposition</message>
 	<message key="submission.list.itemOrdererUp">Remonter {$itemTitle}</message>
